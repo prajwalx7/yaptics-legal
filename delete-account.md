@@ -16,7 +16,7 @@ If you wish to delete your Yaptics account, you have the following options:
 ## 📧 Request Account Deletion via Email
 If you are unable to access the app, you may also request account deletion by emailing us at:
 
-**support@yaptics.app**  
+**yaptics.app@gmail.com**  
 
 Please use the same email address linked to your Yaptics account for faster processing.
 
@@ -41,4 +41,4 @@ Please use the same email address linked to your Yaptics account for faster proc
 
 ## ❓ Need Help?
 If you face issues while deleting your account, contact us at:  
-**support@yaptics.app**
+**yaptics.app@gmail.com**
